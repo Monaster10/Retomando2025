@@ -1,0 +1,6 @@
+git init  Sirve para inicializar Git en mi proyecto. Se hace una vez por proyecto
+git add . Sirve para guardar los cambios en el stage.
+git commit -m "Volviendo a subir cosas en mi GitHub"  Le pongo un titulo a mi stage y se convierte en un commit 
+git branch -M main  Sirve para cambiar el nombre a la rama master. Se hace una vez por proyecto
+git remote add origin https://github.com/Monaster10/Retomando2025.git  Sirve para vincular mi Git con GitHub. Se hace una vez por proyecto.
+git push -u origin main  Sirve para subir mis cambios de la PC al GitHub
